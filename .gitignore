@@ -18,4 +18,7 @@ venv/
 .env/
 
 # Ignore environment configuration files if they contain sensitive information
-environment.yml
+
+
+# Ignore all .ods files
+*.ods
