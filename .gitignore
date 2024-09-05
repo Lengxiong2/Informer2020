@@ -1,0 +1,21 @@
+# Ignore CSV files (dataset)
+*.csv
+
+# Ignore Excel files (dataset)
+*.xls
+*.xlsx
+
+# Ignore specific directories (if you have large datasets or logs)
+data/
+logs/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment (if applicable)
+venv/
+.env/
+
+# Ignore environment configuration files if they contain sensitive information
+environment.yml
